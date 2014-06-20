@@ -39,7 +39,7 @@ public final class Operaciones extends KeyboardReader implements Informes {
 
 		cliente.setDireccionCompleta(readStringLine("Direccion:"));
 
-		cliente.setTelefono(readIntLine("Telefono:"));
+		cliente.setTelefono(readStringLine("Telefono:"));
 
 		cliente.setDireccionMail(readMail("E-Mail:"));
 
@@ -156,7 +156,7 @@ public final class Operaciones extends KeyboardReader implements Informes {
 
 		empleado.setDireccionCompleta(readStringLine("Dirección:"));
 
-		empleado.setTelefono(readIntLine("Telefono:"));
+		empleado.setTelefono(readStringLine("Telefono:"));
 
 		empleado.setDireccionMail(readMail("E-Mail:"));
 
@@ -187,7 +187,7 @@ public final class Operaciones extends KeyboardReader implements Informes {
 
 		veterinario.setDireccionCompleta(readStringLine("Dirección:"));
 
-		veterinario.setTelefono(readIntLine("Telefono:"));
+		veterinario.setTelefono(readStringLine("Telefono:"));
 
 		veterinario.setDireccionMail(readMail("E-Mail:"));
 
