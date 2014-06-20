@@ -3,6 +3,7 @@ package ConexionDB;
 import java.sql.*;
 import java.util.ArrayList;
 
+import datos.Articulo;
 import datos.Cliente;
 import datos.Proveedor;
 import datos.Veterinario;

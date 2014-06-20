@@ -135,7 +135,7 @@ public class Datos {
 		cliente0.setDocumento("99999999");
 		cliente0.setFechaNacimiento(new Date("16/09/1988"));
 		cliente0.setDireccionCompleta("IP CAC");
-		cliente0.setTelefono(1560572244);
+		cliente0.setTelefono("1560572244");
 		cliente0.setDireccionMail("analistascac@gmail.com");
 		cliente0.setTipoCuenta("VIP");
 		cliente0.setOcupacion("Analista de Sistemas");
@@ -149,7 +149,7 @@ public class Datos {
 		cliente1.setDocumento("99999999");
 		cliente1.setFechaNacimiento(new Date("16/09/1988"));
 		cliente1.setDireccionCompleta("Los incas 4292");
-		cliente1.setTelefono(1560572244);
+		cliente1.setTelefono("1560572244");
 		cliente1.setDireccionMail("analistascac@gmail.com");
 		cliente1.setTipoCuenta("VIP");
 		cliente1.setOcupacion("Analista de Sistemas");
@@ -163,7 +163,7 @@ public class Datos {
 		cliente2.setDocumento("99999999");
 		cliente2.setFechaNacimiento(new Date("16/09/1988"));
 		cliente2.setDireccionCompleta("Los incas 4292");
-		cliente2.setTelefono(1560572244);
+		cliente2.setTelefono("1560572244");
 		cliente2.setDireccionMail("analistascac@gmail.com");
 		cliente2.setTipoCuenta("VIP");
 		cliente2.setOcupacion("Analista de Sistemas");
@@ -285,7 +285,7 @@ public class Datos {
 		veterinario0.setDocumento("28328872");
 		veterinario0.setFechaNacimiento(new Date("16/09/1988"));
 		veterinario0.setDireccionCompleta("IPCAC");
-		veterinario0.setTelefono(99999);
+		veterinario0.setTelefono("99999");
 		veterinario0.setDireccionMail("analistascac@gmail.com");
 		veterinario0.setMatricula("999999");
 		this.veterinarios.add(veterinario0);
@@ -298,7 +298,7 @@ public class Datos {
 		veterinario1.setDocumento("28328873");
 		veterinario1.setFechaNacimiento(new Date("16/09/1988"));
 		veterinario1.setDireccionCompleta("IPCAC");
-		veterinario1.setTelefono(99999);
+		veterinario1.setTelefono("99999");
 		veterinario1.setDireccionMail("analistascac@gmail.com");
 		veterinario1.setMatricula("999999");
 		this.veterinarios.add(veterinario1);
@@ -311,7 +311,7 @@ public class Datos {
 		veterinario2.setDocumento("99999999");
 		veterinario2.setFechaNacimiento(new Date("16/09/1988"));
 		veterinario2.setDireccionCompleta("IPCAC");
-		veterinario2.setTelefono(99999);
+		veterinario2.setTelefono("99999");
 		veterinario2.setDireccionMail("analistascac@gmail.com");
 		veterinario2.setMatricula("999999");
 		this.veterinarios.add(veterinario2);
@@ -356,7 +356,7 @@ public class Datos {
 		empleado.setDocumento("38383338");
 		empleado.setFechaNacimiento(new Date("16/09/1988"));
 		empleado.setDireccionCompleta("Calle Delcool 199");
-		empleado.setTelefono(42194219);
+		empleado.setTelefono("42194219");
 		empleado.setDireccionMail("miemail@mail.com");
 		this.empleados.add(empleado);
 
@@ -368,7 +368,7 @@ public class Datos {
 		empleado2.setDocumento("38383338");
 		empleado2.setFechaNacimiento(new Date("16/09/1988"));
 		empleado2.setDireccionCompleta("Calle Delcool 199");
-		empleado2.setTelefono(42194219);
+		empleado2.setTelefono("42194219");
 		empleado2.setDireccionMail("miemail@mail.com");
 		this.empleados.add(empleado2);
 
